@@ -6,7 +6,7 @@ import struct
 
 def main():
     if len(sys.argv) != 2:
-        print(f"[+] Usage: python3 {sys.argv[0]} 'Binary-SID\n'")
+        print(f"[+] Usage: python3 {sys.argv[0]} 'Binary-SID'\n")
         sys.exit(1)
 
     hex_sid = sys.argv[1]
@@ -53,3 +53,4 @@ def main():
 if __name__ == "__main__":
 
     main()
+
