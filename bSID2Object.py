@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import sys
 import struct
 
@@ -51,7 +52,7 @@ def main():
     print(f"[+] String SID: {sid_m}")
 
 if __name__ == "__main__":
-
     main()
+
 
 
