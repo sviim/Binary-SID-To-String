@@ -11,7 +11,7 @@ Features
 - Validates SID length and structure
 - Outputs a standard Windows SID string
 - Pure Python (no external dependencies)
-- Binary SID Grabbed by `SUSER_SID()` MSSQL
+- Binary SID obtained from MSSQL `SUSER_SID()`
 
 Installation
 ```
