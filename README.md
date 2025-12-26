@@ -1,5 +1,4 @@
 # Binary-SID-To-String
-Convert Windows binary SIDs to their string representation (S-1-…).
 
 A simple Python tool to parse and convert Windows binary SIDs into their standard string representation (S-1-…).
 
