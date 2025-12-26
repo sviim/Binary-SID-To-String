@@ -22,4 +22,7 @@ cd Binary-SID-To-String
 Usage
 ```
 python3 bSID2Object.py "0x01050000000000051500000027035A185996571BAD3724B801020000" // Without 0x if it's the case
+
+Output:
+S-1-5-21-4089195535-461858384-3001900321-513
 ```
